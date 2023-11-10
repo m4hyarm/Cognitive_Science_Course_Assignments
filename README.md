@@ -1,4 +1,5 @@
 # Cognitive Science Course Assignments
+## Description
 
 **A1:** Creating a basic cognitive task to investigate heterogeneity in face perception using Psychopy toolbox.
 
